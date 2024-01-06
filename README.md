@@ -21,11 +21,11 @@ The corresponding YouTube tutorials walk you through the development process, ex
 
 ## Projects
 
-- **Project 1: [Project Name 1](link-to-project1)**
+- **Project 1: [Bert web app](link-to-project1)**
   - Brief description of the project and its goals.
   - Link to the YouTube tutorial for Project 1.
 
-- **Project 2: [Project Name 2](link-to-project2)**
+- **Project 2: [GPT web app](link-to-project2)**
   - Brief description of the project and its goals.
   - Link to the YouTube tutorial for Project 2.
 
