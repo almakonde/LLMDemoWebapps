@@ -1,0 +1,5 @@
+Flask
+summarizer
+sentence-transformers
+bert-extractive-summarizer
+torch
